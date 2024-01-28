@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  padding: 10px;
+}
+.top-header {
+  /* border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 80px; */
+  margin-top: 40px;
+  border-radius: 80px;
+  margin-bottom: 0px;
+  /* min-height: 35%; */
+  background-color: #f8e07e;
+  color: black;
+  padding: 60px;
+}
+
+.main-container {
+  /* margin-top: -40px; */
+  border-radius: 50px;
+  /* background-color: rgb(255, 255, 255); */
+  /* background-color: black; */
+  /* min-height: 100%; */
+}
+
+.daily-tracker p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+}
+
+.daily-tracker h3{
+  color: black;
+}
+
+.white {
+  color: white;
+}
+
+.add-item-box {
+  margin-top: 2%;
+  padding: 20px;
+}
+
+.rounded-10 {
+  border-radius: 10px;
+}
